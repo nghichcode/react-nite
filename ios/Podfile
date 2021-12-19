@@ -5,7 +5,8 @@ require_relative '../node_modules/react-native-unimodules/cocoapods.rb'
 platform :ios, '11.0'
 
 target 'ReactNite' do
-  use_unimodules!
+#   use_unimodules!
+  use_unimodules!(modules_paths: ['../node_modules'])
   config = use_native_modules!
 
   use_react_native!(
@@ -23,7 +24,7 @@ target 'ReactNite' do
   #
   # Note that if you have use_frameworks! enabled, Flipper will not work and
   # you should disable these next few lines.
-  use_flipper!({ 'Flipper' => '0.75.1' })
+  use_flipper!
   post_install do |installer|
     flipper_post_install(installer)
     react_native_post_install(installer)
@@ -31,6 +32,7 @@ target 'ReactNite' do
     installer.pods_project.targets.each do |target|
       target.build_configurations.each do |config|
         config.build_settings["ONLY_ACTIVE_ARCH"] = "NO"
+        config.build_settings['IPHONEOS_DEPLOYMENT_TARGET'] = '11.0'
       end
     end
   end
