@@ -1,5 +1,5 @@
 <manifest xmlns:android="http://schemas.android.com/apk/res/android"
-  package="com.helloworld">
+  package="com.nc.react_nite">
 
     <uses-permission android:name="android.permission.INTERNET" />
 

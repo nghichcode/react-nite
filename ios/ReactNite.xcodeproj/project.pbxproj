@@ -7,19 +7,19 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
-		00E356F31AD99517003FC87E /* HelloWorldTests.m in Sources */ = {isa = PBXBuildFile; fileRef = 00E356F21AD99517003FC87E /* HelloWorldTests.m */; };
+		00E356F31AD99517003FC87E /* ReactNiteTests.m in Sources */ = {isa = PBXBuildFile; fileRef = 00E356F21AD99517003FC87E /* ReactNiteTests.m */; };
 		13B07FBC1A68108700A75B9A /* AppDelegate.m in Sources */ = {isa = PBXBuildFile; fileRef = 13B07FB01A68108700A75B9A /* AppDelegate.m */; };
 		13B07FBF1A68108700A75B9A /* Images.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 13B07FB51A68108700A75B9A /* Images.xcassets */; };
 		13B07FC11A68108700A75B9A /* main.m in Sources */ = {isa = PBXBuildFile; fileRef = 13B07FB71A68108700A75B9A /* main.m */; };
 		2D02E4BC1E0B4A80006451C7 /* AppDelegate.m in Sources */ = {isa = PBXBuildFile; fileRef = 13B07FB01A68108700A75B9A /* AppDelegate.m */; };
 		2D02E4BD1E0B4A84006451C7 /* Images.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 13B07FB51A68108700A75B9A /* Images.xcassets */; };
 		2D02E4BF1E0B4AB3006451C7 /* main.m in Sources */ = {isa = PBXBuildFile; fileRef = 13B07FB71A68108700A75B9A /* main.m */; };
-		2DCD954D1E0B4F2C00145EB5 /* HelloWorldTests.m in Sources */ = {isa = PBXBuildFile; fileRef = 00E356F21AD99517003FC87E /* HelloWorldTests.m */; };
-		7BDF12FBF18971FEE4993D1A /* libPods-HelloWorld-HelloWorldTests.a in Frameworks */ = {isa = PBXBuildFile; fileRef = A66D6B7827271A3C004A172F /* libPods-HelloWorld-HelloWorldTests.a */; };
-		8163A267B2FA8B964CC5782A /* libPods-HelloWorld.a in Frameworks */ = {isa = PBXBuildFile; fileRef = A66D6B7627271A3C004A172F /* libPods-HelloWorld.a */; };
+		2DCD954D1E0B4F2C00145EB5 /* ReactNiteTests.m in Sources */ = {isa = PBXBuildFile; fileRef = 00E356F21AD99517003FC87E /* ReactNiteTests.m */; };
+		7BDF12FBF18971FEE4993D1A /* libPods-ReactNite-ReactNiteTests.a in Frameworks */ = {isa = PBXBuildFile; fileRef = A66D6B7827271A3C004A172F /* libPods-ReactNite-ReactNiteTests.a */; };
+		8163A267B2FA8B964CC5782A /* libPods-ReactNite.a in Frameworks */ = {isa = PBXBuildFile; fileRef = A66D6B7627271A3C004A172F /* libPods-ReactNite.a */; };
 		81AB9BB82411601600AC10FF /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 81AB9BB72411601600AC10FF /* LaunchScreen.storyboard */; };
-		A4B148D367B119F99EC2C2E5 /* libPods-HelloWorld.a in Frameworks */ = {isa = PBXBuildFile; fileRef = EADEA568884090C1B008E181 /* libPods-HelloWorld.a */; };
-		E0E402AF856107EC82190244 /* libPods-HelloWorld-HelloWorldTests.a in Frameworks */ = {isa = PBXBuildFile; fileRef = 301BE758935A381A571F5B21 /* libPods-HelloWorld-HelloWorldTests.a */; };
+		A4B148D367B119F99EC2C2E5 /* libPods-ReactNite.a in Frameworks */ = {isa = PBXBuildFile; fileRef = EADEA568884090C1B008E181 /* libPods-ReactNite.a */; };
+		E0E402AF856107EC82190244 /* libPods-ReactNite-ReactNiteTests.a in Frameworks */ = {isa = PBXBuildFile; fileRef = 301BE758935A381A571F5B21 /* libPods-ReactNite-ReactNiteTests.a */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -28,36 +28,36 @@
 			containerPortal = 83CBB9F71A601CBA00E9B192 /* Project object */;
 			proxyType = 1;
 			remoteGlobalIDString = 13B07F861A680F5B00A75B9A;
-			remoteInfo = HelloWorld;
+			remoteInfo = ReactNite;
 		};
 		2D02E4911E0B4A5D006451C7 /* PBXContainerItemProxy */ = {
 			isa = PBXContainerItemProxy;
 			containerPortal = 83CBB9F71A601CBA00E9B192 /* Project object */;
 			proxyType = 1;
 			remoteGlobalIDString = 2D02E47A1E0B4A5D006451C7;
-			remoteInfo = "HelloWorld-tvOS";
+			remoteInfo = "ReactNite-tvOS";
 		};
 /* End PBXContainerItemProxy section */
 
 /* Begin PBXFileReference section */
 		008F07F21AC5B25A0029DE68 /* main.jsbundle */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = main.jsbundle; sourceTree = "<group>"; };
-		00E356EE1AD99517003FC87E /* HelloWorldTests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = HelloWorldTests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
+		00E356EE1AD99517003FC87E /* ReactNiteTests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = ReactNiteTests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		00E356F11AD99517003FC87E /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
-		00E356F21AD99517003FC87E /* HelloWorldTests.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = HelloWorldTests.m; sourceTree = "<group>"; };
-		13B07F961A680F5B00A75B9A /* HelloWorld.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = HelloWorld.app; sourceTree = BUILT_PRODUCTS_DIR; };
-		13B07FAF1A68108700A75B9A /* AppDelegate.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; name = AppDelegate.h; path = HelloWorld/AppDelegate.h; sourceTree = "<group>"; };
-		13B07FB01A68108700A75B9A /* AppDelegate.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; name = AppDelegate.m; path = HelloWorld/AppDelegate.m; sourceTree = "<group>"; };
-		13B07FB51A68108700A75B9A /* Images.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; name = Images.xcassets; path = HelloWorld/Images.xcassets; sourceTree = "<group>"; };
-		13B07FB61A68108700A75B9A /* Info.plist */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.plist.xml; name = Info.plist; path = HelloWorld/Info.plist; sourceTree = "<group>"; };
-		13B07FB71A68108700A75B9A /* main.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; name = main.m; path = HelloWorld/main.m; sourceTree = "<group>"; };
-		2D02E47B1E0B4A5D006451C7 /* HelloWorld-tvOS.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = "HelloWorld-tvOS.app"; sourceTree = BUILT_PRODUCTS_DIR; };
-		2D02E4901E0B4A5D006451C7 /* HelloWorld-tvOSTests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = "HelloWorld-tvOSTests.xctest"; sourceTree = BUILT_PRODUCTS_DIR; };
-		301BE758935A381A571F5B21 /* libPods-HelloWorld-HelloWorldTests.a */ = {isa = PBXFileReference; explicitFileType = archive.ar; includeInIndex = 0; path = "libPods-HelloWorld-HelloWorldTests.a"; sourceTree = BUILT_PRODUCTS_DIR; };
-		32B04630CC446F19212E357A /* Pods-HelloWorld-HelloWorldTests.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-HelloWorld-HelloWorldTests.release.xcconfig"; path = "Target Support Files/Pods-HelloWorld-HelloWorldTests/Pods-HelloWorld-HelloWorldTests.release.xcconfig"; sourceTree = "<group>"; };
-		3ECD546F3378FD459F4E82B0 /* Pods-HelloWorld.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-HelloWorld.debug.xcconfig"; path = "Target Support Files/Pods-HelloWorld/Pods-HelloWorld.debug.xcconfig"; sourceTree = "<group>"; };
-		4D40708BE521DBE7DC6E68C8 /* Pods-HelloWorld.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-HelloWorld.release.xcconfig"; path = "Target Support Files/Pods-HelloWorld/Pods-HelloWorld.release.xcconfig"; sourceTree = "<group>"; };
-		81AB9BB72411601600AC10FF /* LaunchScreen.storyboard */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = file.storyboard; name = LaunchScreen.storyboard; path = HelloWorld/LaunchScreen.storyboard; sourceTree = "<group>"; };
-		8D3D2E99D3814D73E5353ACB /* Pods-HelloWorld-HelloWorldTests.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-HelloWorld-HelloWorldTests.debug.xcconfig"; path = "Target Support Files/Pods-HelloWorld-HelloWorldTests/Pods-HelloWorld-HelloWorldTests.debug.xcconfig"; sourceTree = "<group>"; };
+		00E356F21AD99517003FC87E /* ReactNiteTests.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = ReactNiteTests.m; sourceTree = "<group>"; };
+		13B07F961A680F5B00A75B9A /* ReactNite.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = ReactNite.app; sourceTree = BUILT_PRODUCTS_DIR; };
+		13B07FAF1A68108700A75B9A /* AppDelegate.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; name = AppDelegate.h; path = ReactNite/AppDelegate.h; sourceTree = "<group>"; };
+		13B07FB01A68108700A75B9A /* AppDelegate.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; name = AppDelegate.m; path = ReactNite/AppDelegate.m; sourceTree = "<group>"; };
+		13B07FB51A68108700A75B9A /* Images.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; name = Images.xcassets; path = ReactNite/Images.xcassets; sourceTree = "<group>"; };
+		13B07FB61A68108700A75B9A /* Info.plist */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.plist.xml; name = Info.plist; path = ReactNite/Info.plist; sourceTree = "<group>"; };
+		13B07FB71A68108700A75B9A /* main.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; name = main.m; path = ReactNite/main.m; sourceTree = "<group>"; };
+		2D02E47B1E0B4A5D006451C7 /* ReactNite-tvOS.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = "ReactNite-tvOS.app"; sourceTree = BUILT_PRODUCTS_DIR; };
+		2D02E4901E0B4A5D006451C7 /* ReactNite-tvOSTests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = "ReactNite-tvOSTests.xctest"; sourceTree = BUILT_PRODUCTS_DIR; };
+		301BE758935A381A571F5B21 /* libPods-ReactNite-ReactNiteTests.a */ = {isa = PBXFileReference; explicitFileType = archive.ar; includeInIndex = 0; path = "libPods-ReactNite-ReactNiteTests.a"; sourceTree = BUILT_PRODUCTS_DIR; };
+		32B04630CC446F19212E357A /* Pods-ReactNite-ReactNiteTests.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-ReactNite-ReactNiteTests.release.xcconfig"; path = "Target Support Files/Pods-ReactNite-ReactNiteTests/Pods-ReactNite-ReactNiteTests.release.xcconfig"; sourceTree = "<group>"; };
+		3ECD546F3378FD459F4E82B0 /* Pods-ReactNite.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-ReactNite.debug.xcconfig"; path = "Target Support Files/Pods-ReactNite/Pods-ReactNite.debug.xcconfig"; sourceTree = "<group>"; };
+		4D40708BE521DBE7DC6E68C8 /* Pods-ReactNite.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-ReactNite.release.xcconfig"; path = "Target Support Files/Pods-ReactNite/Pods-ReactNite.release.xcconfig"; sourceTree = "<group>"; };
+		81AB9BB72411601600AC10FF /* LaunchScreen.storyboard */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = file.storyboard; name = LaunchScreen.storyboard; path = ReactNite/LaunchScreen.storyboard; sourceTree = "<group>"; };
+		8D3D2E99D3814D73E5353ACB /* Pods-ReactNite-ReactNiteTests.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-ReactNite-ReactNiteTests.debug.xcconfig"; path = "Target Support Files/Pods-ReactNite-ReactNiteTests/Pods-ReactNite-ReactNiteTests.debug.xcconfig"; sourceTree = "<group>"; };
 		A66D6B6427271A3C004A172F /* libDoubleConversion.a */ = {isa = PBXFileReference; explicitFileType = archive.ar; path = libDoubleConversion.a; sourceTree = BUILT_PRODUCTS_DIR; };
 		A66D6B6627271A3C004A172F /* libEXConstants.a */ = {isa = PBXFileReference; explicitFileType = archive.ar; path = libEXConstants.a; sourceTree = BUILT_PRODUCTS_DIR; };
 		A66D6B6827271A3C004A172F /* libEXFileSystem.a */ = {isa = PBXFileReference; explicitFileType = archive.ar; path = libEXFileSystem.a; sourceTree = BUILT_PRODUCTS_DIR; };
@@ -67,8 +67,8 @@
 		A66D6B7027271A3C004A172F /* libEXPermissions.a */ = {isa = PBXFileReference; explicitFileType = archive.ar; path = libEXPermissions.a; sourceTree = BUILT_PRODUCTS_DIR; };
 		A66D6B7227271A3C004A172F /* libFBReactNativeSpec.a */ = {isa = PBXFileReference; explicitFileType = archive.ar; path = libFBReactNativeSpec.a; sourceTree = BUILT_PRODUCTS_DIR; };
 		A66D6B7427271A3C004A172F /* libglog.a */ = {isa = PBXFileReference; explicitFileType = archive.ar; path = libglog.a; sourceTree = BUILT_PRODUCTS_DIR; };
-		A66D6B7627271A3C004A172F /* libPods-HelloWorld.a */ = {isa = PBXFileReference; explicitFileType = archive.ar; path = "libPods-HelloWorld.a"; sourceTree = BUILT_PRODUCTS_DIR; };
-		A66D6B7827271A3C004A172F /* libPods-HelloWorld-HelloWorldTests.a */ = {isa = PBXFileReference; explicitFileType = archive.ar; path = "libPods-HelloWorld-HelloWorldTests.a"; sourceTree = BUILT_PRODUCTS_DIR; };
+		A66D6B7627271A3C004A172F /* libPods-ReactNite.a */ = {isa = PBXFileReference; explicitFileType = archive.ar; path = "libPods-ReactNite.a"; sourceTree = BUILT_PRODUCTS_DIR; };
+		A66D6B7827271A3C004A172F /* libPods-ReactNite-ReactNiteTests.a */ = {isa = PBXFileReference; explicitFileType = archive.ar; path = "libPods-ReactNite-ReactNiteTests.a"; sourceTree = BUILT_PRODUCTS_DIR; };
 		A66D6B7A27271A3C004A172F /* libRCT-Folly.a */ = {isa = PBXFileReference; explicitFileType = archive.ar; path = "libRCT-Folly.a"; sourceTree = BUILT_PRODUCTS_DIR; };
 		A66D6B7C27271A3C004A172F /* libRCTTypeSafety.a */ = {isa = PBXFileReference; explicitFileType = archive.ar; path = libRCTTypeSafety.a; sourceTree = BUILT_PRODUCTS_DIR; };
 		A66D6B7E27271A3C004A172F /* libReact-Core.a */ = {isa = PBXFileReference; explicitFileType = archive.ar; path = "libReact-Core.a"; sourceTree = BUILT_PRODUCTS_DIR; };
@@ -98,7 +98,7 @@
 		A66D6BAE27271A3C004A172F /* libUMPermissionsInterface.a */ = {isa = PBXFileReference; explicitFileType = archive.ar; path = libUMPermissionsInterface.a; sourceTree = BUILT_PRODUCTS_DIR; };
 		A66D6BB027271A3C004A172F /* libUMReactNativeAdapter.a */ = {isa = PBXFileReference; explicitFileType = archive.ar; path = libUMReactNativeAdapter.a; sourceTree = BUILT_PRODUCTS_DIR; };
 		A66D6BB227271A3C004A172F /* libYoga.a */ = {isa = PBXFileReference; explicitFileType = archive.ar; path = libYoga.a; sourceTree = BUILT_PRODUCTS_DIR; };
-		EADEA568884090C1B008E181 /* libPods-HelloWorld.a */ = {isa = PBXFileReference; explicitFileType = archive.ar; includeInIndex = 0; path = "libPods-HelloWorld.a"; sourceTree = BUILT_PRODUCTS_DIR; };
+		EADEA568884090C1B008E181 /* libPods-ReactNite.a */ = {isa = PBXFileReference; explicitFileType = archive.ar; includeInIndex = 0; path = "libPods-ReactNite.a"; sourceTree = BUILT_PRODUCTS_DIR; };
 		ED297162215061F000B7C4FE /* JavaScriptCore.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = JavaScriptCore.framework; path = System/Library/Frameworks/JavaScriptCore.framework; sourceTree = SDKROOT; };
 		ED2971642150620600B7C4FE /* JavaScriptCore.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = JavaScriptCore.framework; path = Platforms/AppleTVOS.platform/Developer/SDKs/AppleTVOS12.0.sdk/System/Library/Frameworks/JavaScriptCore.framework; sourceTree = DEVELOPER_DIR; };
 /* End PBXFileReference section */
@@ -108,8 +108,8 @@
 			isa = PBXFrameworksBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				E0E402AF856107EC82190244 /* libPods-HelloWorld-HelloWorldTests.a in Frameworks */,
-				7BDF12FBF18971FEE4993D1A /* libPods-HelloWorld-HelloWorldTests.a in Frameworks */,
+				E0E402AF856107EC82190244 /* libPods-ReactNite-ReactNiteTests.a in Frameworks */,
+				7BDF12FBF18971FEE4993D1A /* libPods-ReactNite-ReactNiteTests.a in Frameworks */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -117,8 +117,8 @@
 			isa = PBXFrameworksBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				A4B148D367B119F99EC2C2E5 /* libPods-HelloWorld.a in Frameworks */,
-				8163A267B2FA8B964CC5782A /* libPods-HelloWorld.a in Frameworks */,
+				A4B148D367B119F99EC2C2E5 /* libPods-ReactNite.a in Frameworks */,
+				8163A267B2FA8B964CC5782A /* libPods-ReactNite.a in Frameworks */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -139,13 +139,13 @@
 /* End PBXFrameworksBuildPhase section */
 
 /* Begin PBXGroup section */
-		00E356EF1AD99517003FC87E /* HelloWorldTests */ = {
+		00E356EF1AD99517003FC87E /* ReactNiteTests */ = {
 			isa = PBXGroup;
 			children = (
-				00E356F21AD99517003FC87E /* HelloWorldTests.m */,
+				00E356F21AD99517003FC87E /* ReactNiteTests.m */,
 				00E356F01AD99517003FC87E /* Supporting Files */,
 			);
-			path = HelloWorldTests;
+			path = ReactNiteTests;
 			sourceTree = "<group>";
 		};
 		00E356F01AD99517003FC87E /* Supporting Files */ = {
@@ -156,7 +156,7 @@
 			name = "Supporting Files";
 			sourceTree = "<group>";
 		};
-		13B07FAE1A68108700A75B9A /* HelloWorld */ = {
+		13B07FAE1A68108700A75B9A /* ReactNite */ = {
 			isa = PBXGroup;
 			children = (
 				008F07F21AC5B25A0029DE68 /* main.jsbundle */,
@@ -167,7 +167,7 @@
 				81AB9BB72411601600AC10FF /* LaunchScreen.storyboard */,
 				13B07FB71A68108700A75B9A /* main.m */,
 			);
-			name = HelloWorld;
+			name = ReactNite;
 			sourceTree = "<group>";
 		};
 		2D16E6871FA4F8E400B85C8A /* Frameworks */ = {
@@ -182,8 +182,8 @@
 				A66D6B7027271A3C004A172F /* libEXPermissions.a */,
 				A66D6B7227271A3C004A172F /* libFBReactNativeSpec.a */,
 				A66D6B7427271A3C004A172F /* libglog.a */,
-				A66D6B7627271A3C004A172F /* libPods-HelloWorld.a */,
-				A66D6B7827271A3C004A172F /* libPods-HelloWorld-HelloWorldTests.a */,
+				A66D6B7627271A3C004A172F /* libPods-ReactNite.a */,
+				A66D6B7827271A3C004A172F /* libPods-ReactNite-ReactNiteTests.a */,
 				A66D6B7A27271A3C004A172F /* libRCT-Folly.a */,
 				A66D6B7C27271A3C004A172F /* libRCTTypeSafety.a */,
 				A66D6B7E27271A3C004A172F /* libReact-Core.a */,
@@ -215,8 +215,8 @@
 				A66D6BB227271A3C004A172F /* libYoga.a */,
 				ED297162215061F000B7C4FE /* JavaScriptCore.framework */,
 				ED2971642150620600B7C4FE /* JavaScriptCore.framework */,
-				EADEA568884090C1B008E181 /* libPods-HelloWorld.a */,
-				301BE758935A381A571F5B21 /* libPods-HelloWorld-HelloWorldTests.a */,
+				EADEA568884090C1B008E181 /* libPods-ReactNite.a */,
+				301BE758935A381A571F5B21 /* libPods-ReactNite-ReactNiteTests.a */,
 			);
 			name = Frameworks;
 			sourceTree = "<group>";
@@ -224,10 +224,10 @@
 		71ED362ACEA45F9F60DCD285 /* Pods */ = {
 			isa = PBXGroup;
 			children = (
-				3ECD546F3378FD459F4E82B0 /* Pods-HelloWorld.debug.xcconfig */,
-				4D40708BE521DBE7DC6E68C8 /* Pods-HelloWorld.release.xcconfig */,
-				8D3D2E99D3814D73E5353ACB /* Pods-HelloWorld-HelloWorldTests.debug.xcconfig */,
-				32B04630CC446F19212E357A /* Pods-HelloWorld-HelloWorldTests.release.xcconfig */,
+				3ECD546F3378FD459F4E82B0 /* Pods-ReactNite.debug.xcconfig */,
+				4D40708BE521DBE7DC6E68C8 /* Pods-ReactNite.release.xcconfig */,
+				8D3D2E99D3814D73E5353ACB /* Pods-ReactNite-ReactNiteTests.debug.xcconfig */,
+				32B04630CC446F19212E357A /* Pods-ReactNite-ReactNiteTests.release.xcconfig */,
 			);
 			path = Pods;
 			sourceTree = "<group>";
@@ -242,12 +242,13 @@
 		83CBB9F61A601CBA00E9B192 = {
 			isa = PBXGroup;
 			children = (
-				13B07FAE1A68108700A75B9A /* HelloWorld */,
+				13B07FAE1A68108700A75B9A /* ReactNite */,
 				832341AE1AAA6A7D00B99B32 /* Libraries */,
-				00E356EF1AD99517003FC87E /* HelloWorldTests */,
+				00E356EF1AD99517003FC87E /* ReactNiteTests */,
 				83CBBA001A601CBA00E9B192 /* Products */,
 				2D16E6871FA4F8E400B85C8A /* Frameworks */,
 				71ED362ACEA45F9F60DCD285 /* Pods */,
+				96BA298F5B444DB8A6A777AE /* Resources */,
 			);
 			indentWidth = 2;
 			sourceTree = "<group>";
@@ -257,20 +258,28 @@
 		83CBBA001A601CBA00E9B192 /* Products */ = {
 			isa = PBXGroup;
 			children = (
-				13B07F961A680F5B00A75B9A /* HelloWorld.app */,
-				00E356EE1AD99517003FC87E /* HelloWorldTests.xctest */,
-				2D02E47B1E0B4A5D006451C7 /* HelloWorld-tvOS.app */,
-				2D02E4901E0B4A5D006451C7 /* HelloWorld-tvOSTests.xctest */,
+				13B07F961A680F5B00A75B9A /* ReactNite.app */,
+				00E356EE1AD99517003FC87E /* ReactNiteTests.xctest */,
+				2D02E47B1E0B4A5D006451C7 /* ReactNite-tvOS.app */,
+				2D02E4901E0B4A5D006451C7 /* ReactNite-tvOSTests.xctest */,
 			);
 			name = Products;
+			sourceTree = "<group>";
+		};
+		96BA298F5B444DB8A6A777AE /* Resources */ = {
+			isa = PBXGroup;
+			children = (
+			);
+			name = Resources;
+			path = "";
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
 
 /* Begin PBXNativeTarget section */
-		00E356ED1AD99517003FC87E /* HelloWorldTests */ = {
+		00E356ED1AD99517003FC87E /* ReactNiteTests */ = {
 			isa = PBXNativeTarget;
-			buildConfigurationList = 00E357021AD99517003FC87E /* Build configuration list for PBXNativeTarget "HelloWorldTests" */;
+			buildConfigurationList = 00E357021AD99517003FC87E /* Build configuration list for PBXNativeTarget "ReactNiteTests" */;
 			buildPhases = (
 				77DA01E931F34FC3A825D18E /* [CP] Check Pods Manifest.lock */,
 				00E356EA1AD99517003FC87E /* Sources */,
@@ -284,14 +293,14 @@
 			dependencies = (
 				00E356F51AD99517003FC87E /* PBXTargetDependency */,
 			);
-			name = HelloWorldTests;
-			productName = HelloWorldTests;
-			productReference = 00E356EE1AD99517003FC87E /* HelloWorldTests.xctest */;
+			name = ReactNiteTests;
+			productName = ReactNiteTests;
+			productReference = 00E356EE1AD99517003FC87E /* ReactNiteTests.xctest */;
 			productType = "com.apple.product-type.bundle.unit-test";
 		};
-		13B07F861A680F5B00A75B9A /* HelloWorld */ = {
+		13B07F861A680F5B00A75B9A /* ReactNite */ = {
 			isa = PBXNativeTarget;
-			buildConfigurationList = 13B07F931A680F5B00A75B9A /* Build configuration list for PBXNativeTarget "HelloWorld" */;
+			buildConfigurationList = 13B07F931A680F5B00A75B9A /* Build configuration list for PBXNativeTarget "ReactNite" */;
 			buildPhases = (
 				3D9C6EB91031CB0FB90EA6D7 /* [CP] Check Pods Manifest.lock */,
 				FD10A7F022414F080027D42C /* Start Packager */,
@@ -306,14 +315,14 @@
 			);
 			dependencies = (
 			);
-			name = HelloWorld;
-			productName = HelloWorld;
-			productReference = 13B07F961A680F5B00A75B9A /* HelloWorld.app */;
+			name = ReactNite;
+			productName = ReactNite;
+			productReference = 13B07F961A680F5B00A75B9A /* ReactNite.app */;
 			productType = "com.apple.product-type.application";
 		};
-		2D02E47A1E0B4A5D006451C7 /* HelloWorld-tvOS */ = {
+		2D02E47A1E0B4A5D006451C7 /* ReactNite-tvOS */ = {
 			isa = PBXNativeTarget;
-			buildConfigurationList = 2D02E4BA1E0B4A5E006451C7 /* Build configuration list for PBXNativeTarget "HelloWorld-tvOS" */;
+			buildConfigurationList = 2D02E4BA1E0B4A5E006451C7 /* Build configuration list for PBXNativeTarget "ReactNite-tvOS" */;
 			buildPhases = (
 				FD10A7F122414F3F0027D42C /* Start Packager */,
 				2D02E4771E0B4A5D006451C7 /* Sources */,
@@ -325,14 +334,14 @@
 			);
 			dependencies = (
 			);
-			name = "HelloWorld-tvOS";
-			productName = "HelloWorld-tvOS";
-			productReference = 2D02E47B1E0B4A5D006451C7 /* HelloWorld-tvOS.app */;
+			name = "ReactNite-tvOS";
+			productName = "ReactNite-tvOS";
+			productReference = 2D02E47B1E0B4A5D006451C7 /* ReactNite-tvOS.app */;
 			productType = "com.apple.product-type.application";
 		};
-		2D02E48F1E0B4A5D006451C7 /* HelloWorld-tvOSTests */ = {
+		2D02E48F1E0B4A5D006451C7 /* ReactNite-tvOSTests */ = {
 			isa = PBXNativeTarget;
-			buildConfigurationList = 2D02E4BB1E0B4A5E006451C7 /* Build configuration list for PBXNativeTarget "HelloWorld-tvOSTests" */;
+			buildConfigurationList = 2D02E4BB1E0B4A5E006451C7 /* Build configuration list for PBXNativeTarget "ReactNite-tvOSTests" */;
 			buildPhases = (
 				2D02E48C1E0B4A5D006451C7 /* Sources */,
 				2D02E48D1E0B4A5D006451C7 /* Frameworks */,
@@ -343,9 +352,9 @@
 			dependencies = (
 				2D02E4921E0B4A5D006451C7 /* PBXTargetDependency */,
 			);
-			name = "HelloWorld-tvOSTests";
-			productName = "HelloWorld-tvOSTests";
-			productReference = 2D02E4901E0B4A5D006451C7 /* HelloWorld-tvOSTests.xctest */;
+			name = "ReactNite-tvOSTests";
+			productName = "ReactNite-tvOSTests";
+			productReference = 2D02E4901E0B4A5D006451C7 /* ReactNite-tvOSTests.xctest */;
 			productType = "com.apple.product-type.bundle.unit-test";
 		};
 /* End PBXNativeTarget section */
@@ -375,7 +384,7 @@
 					};
 				};
 			};
-			buildConfigurationList = 83CBB9FA1A601CBA00E9B192 /* Build configuration list for PBXProject "HelloWorld" */;
+			buildConfigurationList = 83CBB9FA1A601CBA00E9B192 /* Build configuration list for PBXProject "ReactNite" */;
 			compatibilityVersion = "Xcode 3.2";
 			developmentRegion = en;
 			hasScannedForEncodings = 0;
@@ -388,10 +397,10 @@
 			projectDirPath = "";
 			projectRoot = "";
 			targets = (
-				13B07F861A680F5B00A75B9A /* HelloWorld */,
-				00E356ED1AD99517003FC87E /* HelloWorldTests */,
-				2D02E47A1E0B4A5D006451C7 /* HelloWorld-tvOS */,
-				2D02E48F1E0B4A5D006451C7 /* HelloWorld-tvOSTests */,
+				13B07F861A680F5B00A75B9A /* ReactNite */,
+				00E356ED1AD99517003FC87E /* ReactNiteTests */,
+				2D02E47A1E0B4A5D006451C7 /* ReactNite-tvOS */,
+				2D02E48F1E0B4A5D006451C7 /* ReactNite-tvOSTests */,
 			);
 		};
 /* End PBXProject section */
@@ -451,7 +460,7 @@
 			files = (
 			);
 			inputPaths = (
-				"${PODS_ROOT}/Target Support Files/Pods-HelloWorld/Pods-HelloWorld-resources.sh",
+				"${PODS_ROOT}/Target Support Files/Pods-ReactNite/Pods-ReactNite-resources.sh",
 				"${PODS_CONFIGURATION_BUILD_DIR}/React-Core/AccessibilityResources.bundle",
 			);
 			name = "[CP] Copy Pods Resources";
@@ -460,7 +469,7 @@
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 			shellPath = /bin/sh;
-			shellScript = "\"${PODS_ROOT}/Target Support Files/Pods-HelloWorld/Pods-HelloWorld-resources.sh\"\n";
+			shellScript = "\"${PODS_ROOT}/Target Support Files/Pods-ReactNite/Pods-ReactNite-resources.sh\"\n";
 			showEnvVarsInLog = 0;
 		};
 		1B9B18EDCCD2F2B1B1EB91A7 /* [CP] Embed Pods Frameworks */ = {
@@ -469,16 +478,18 @@
 			files = (
 			);
 			inputPaths = (
-				"${PODS_ROOT}/Target Support Files/Pods-HelloWorld-HelloWorldTests/Pods-HelloWorld-HelloWorldTests-frameworks.sh",
+				"${PODS_ROOT}/Target Support Files/Pods-ReactNite-ReactNiteTests/Pods-ReactNite-ReactNiteTests-frameworks.sh",
+				"${PODS_XCFRAMEWORKS_BUILD_DIR}/Flipper-DoubleConversion/double-conversion.framework/double-conversion",
 				"${PODS_XCFRAMEWORKS_BUILD_DIR}/OpenSSL-Universal/OpenSSL.framework/OpenSSL",
 			);
 			name = "[CP] Embed Pods Frameworks";
 			outputPaths = (
+				"${TARGET_BUILD_DIR}/${FRAMEWORKS_FOLDER_PATH}/double-conversion.framework",
 				"${TARGET_BUILD_DIR}/${FRAMEWORKS_FOLDER_PATH}/OpenSSL.framework",
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 			shellPath = /bin/sh;
-			shellScript = "\"${PODS_ROOT}/Target Support Files/Pods-HelloWorld-HelloWorldTests/Pods-HelloWorld-HelloWorldTests-frameworks.sh\"\n";
+			shellScript = "\"${PODS_ROOT}/Target Support Files/Pods-ReactNite-ReactNiteTests/Pods-ReactNite-ReactNiteTests-frameworks.sh\"\n";
 			showEnvVarsInLog = 0;
 		};
 		2D02E4CB1E0B4B27006451C7 /* Bundle React Native Code And Images */ = {
@@ -510,7 +521,7 @@
 			outputFileListPaths = (
 			);
 			outputPaths = (
-				"$(DERIVED_FILE_DIR)/Pods-HelloWorld-checkManifestLockResult.txt",
+				"$(DERIVED_FILE_DIR)/Pods-ReactNite-checkManifestLockResult.txt",
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 			shellPath = /bin/sh;
@@ -532,7 +543,7 @@
 			outputFileListPaths = (
 			);
 			outputPaths = (
-				"$(DERIVED_FILE_DIR)/Pods-HelloWorld-HelloWorldTests-checkManifestLockResult.txt",
+				"$(DERIVED_FILE_DIR)/Pods-ReactNite-ReactNiteTests-checkManifestLockResult.txt",
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 			shellPath = /bin/sh;
@@ -545,7 +556,7 @@
 			files = (
 			);
 			inputPaths = (
-				"${PODS_ROOT}/Target Support Files/Pods-HelloWorld-HelloWorldTests/Pods-HelloWorld-HelloWorldTests-resources.sh",
+				"${PODS_ROOT}/Target Support Files/Pods-ReactNite-ReactNiteTests/Pods-ReactNite-ReactNiteTests-resources.sh",
 				"${PODS_CONFIGURATION_BUILD_DIR}/React-Core/AccessibilityResources.bundle",
 			);
 			name = "[CP] Copy Pods Resources";
@@ -554,7 +565,7 @@
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 			shellPath = /bin/sh;
-			shellScript = "\"${PODS_ROOT}/Target Support Files/Pods-HelloWorld-HelloWorldTests/Pods-HelloWorld-HelloWorldTests-resources.sh\"\n";
+			shellScript = "\"${PODS_ROOT}/Target Support Files/Pods-ReactNite-ReactNiteTests/Pods-ReactNite-ReactNiteTests-resources.sh\"\n";
 			showEnvVarsInLog = 0;
 		};
 		ACA4CAF5458A5BAE5DCCAF7D /* [CP] Embed Pods Frameworks */ = {
@@ -563,16 +574,18 @@
 			files = (
 			);
 			inputPaths = (
-				"${PODS_ROOT}/Target Support Files/Pods-HelloWorld/Pods-HelloWorld-frameworks.sh",
+				"${PODS_ROOT}/Target Support Files/Pods-ReactNite/Pods-ReactNite-frameworks.sh",
+				"${PODS_XCFRAMEWORKS_BUILD_DIR}/Flipper-DoubleConversion/double-conversion.framework/double-conversion",
 				"${PODS_XCFRAMEWORKS_BUILD_DIR}/OpenSSL-Universal/OpenSSL.framework/OpenSSL",
 			);
 			name = "[CP] Embed Pods Frameworks";
 			outputPaths = (
+				"${TARGET_BUILD_DIR}/${FRAMEWORKS_FOLDER_PATH}/double-conversion.framework",
 				"${TARGET_BUILD_DIR}/${FRAMEWORKS_FOLDER_PATH}/OpenSSL.framework",
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 			shellPath = /bin/sh;
-			shellScript = "\"${PODS_ROOT}/Target Support Files/Pods-HelloWorld/Pods-HelloWorld-frameworks.sh\"\n";
+			shellScript = "\"${PODS_ROOT}/Target Support Files/Pods-ReactNite/Pods-ReactNite-frameworks.sh\"\n";
 			showEnvVarsInLog = 0;
 		};
 		FD10A7F022414F080027D42C /* Start Packager */ = {
@@ -620,7 +633,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				00E356F31AD99517003FC87E /* HelloWorldTests.m in Sources */,
+				00E356F31AD99517003FC87E /* ReactNiteTests.m in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -646,7 +659,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				2DCD954D1E0B4F2C00145EB5 /* HelloWorldTests.m in Sources */,
+				2DCD954D1E0B4F2C00145EB5 /* ReactNiteTests.m in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -655,12 +668,12 @@
 /* Begin PBXTargetDependency section */
 		00E356F51AD99517003FC87E /* PBXTargetDependency */ = {
 			isa = PBXTargetDependency;
-			target = 13B07F861A680F5B00A75B9A /* HelloWorld */;
+			target = 13B07F861A680F5B00A75B9A /* ReactNite */;
 			targetProxy = 00E356F41AD99517003FC87E /* PBXContainerItemProxy */;
 		};
 		2D02E4921E0B4A5D006451C7 /* PBXTargetDependency */ = {
 			isa = PBXTargetDependency;
-			target = 2D02E47A1E0B4A5D006451C7 /* HelloWorld-tvOS */;
+			target = 2D02E47A1E0B4A5D006451C7 /* ReactNite-tvOS */;
 			targetProxy = 2D02E4911E0B4A5D006451C7 /* PBXContainerItemProxy */;
 		};
 /* End PBXTargetDependency section */
@@ -668,14 +681,14 @@
 /* Begin XCBuildConfiguration section */
 		00E356F61AD99517003FC87E /* Debug */ = {
 			isa = XCBuildConfiguration;
-			baseConfigurationReference = 8D3D2E99D3814D73E5353ACB /* Pods-HelloWorld-HelloWorldTests.debug.xcconfig */;
+			baseConfigurationReference = 8D3D2E99D3814D73E5353ACB /* Pods-ReactNite-ReactNiteTests.debug.xcconfig */;
 			buildSettings = {
 				BUNDLE_LOADER = "$(TEST_HOST)";
 				GCC_PREPROCESSOR_DEFINITIONS = (
 					"DEBUG=1",
 					"$(inherited)",
 				);
-				INFOPLIST_FILE = HelloWorldTests/Info.plist;
+				INFOPLIST_FILE = ReactNiteTests/Info.plist;
 				IPHONEOS_DEPLOYMENT_TARGET = 10.0;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks @loader_path/Frameworks";
 				OTHER_LDFLAGS = (
@@ -685,17 +698,17 @@
 				);
 				PRODUCT_BUNDLE_IDENTIFIER = "org.reactjs.native.example.$(PRODUCT_NAME:rfc1034identifier)";
 				PRODUCT_NAME = "$(TARGET_NAME)";
-				TEST_HOST = "$(BUILT_PRODUCTS_DIR)/HelloWorld.app/HelloWorld";
+				TEST_HOST = "$(BUILT_PRODUCTS_DIR)/ReactNite.app/ReactNite";
 			};
 			name = Debug;
 		};
 		00E356F71AD99517003FC87E /* Release */ = {
 			isa = XCBuildConfiguration;
-			baseConfigurationReference = 32B04630CC446F19212E357A /* Pods-HelloWorld-HelloWorldTests.release.xcconfig */;
+			baseConfigurationReference = 32B04630CC446F19212E357A /* Pods-ReactNite-ReactNiteTests.release.xcconfig */;
 			buildSettings = {
 				BUNDLE_LOADER = "$(TEST_HOST)";
 				COPY_PHASE_STRIP = NO;
-				INFOPLIST_FILE = HelloWorldTests/Info.plist;
+				INFOPLIST_FILE = ReactNiteTests/Info.plist;
 				IPHONEOS_DEPLOYMENT_TARGET = 10.0;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks @loader_path/Frameworks";
 				OTHER_LDFLAGS = (
@@ -705,22 +718,22 @@
 				);
 				PRODUCT_BUNDLE_IDENTIFIER = "org.reactjs.native.example.$(PRODUCT_NAME:rfc1034identifier)";
 				PRODUCT_NAME = "$(TARGET_NAME)";
-				TEST_HOST = "$(BUILT_PRODUCTS_DIR)/HelloWorld.app/HelloWorld";
+				TEST_HOST = "$(BUILT_PRODUCTS_DIR)/ReactNite.app/ReactNite";
 			};
 			name = Release;
 		};
 		13B07F941A680F5B00A75B9A /* Debug */ = {
 			isa = XCBuildConfiguration;
-			baseConfigurationReference = 3ECD546F3378FD459F4E82B0 /* Pods-HelloWorld.debug.xcconfig */;
+			baseConfigurationReference = 3ECD546F3378FD459F4E82B0 /* Pods-ReactNite.debug.xcconfig */;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				CLANG_ENABLE_MODULES = YES;
 				CURRENT_PROJECT_VERSION = 1;
 				DEVELOPMENT_TEAM = A8JX9582AC;
 				ENABLE_BITCODE = NO;
-				EXCLUDED_ARCHS = arm64;
+				EXCLUDED_ARCHS = "";
 				"EXCLUDED_ARCHS[sdk=iphonesimulator*]" = arm64;
-				INFOPLIST_FILE = HelloWorld/Info.plist;
+				INFOPLIST_FILE = ReactNite/Info.plist;
 				IPHONEOS_DEPLOYMENT_TARGET = 11.0;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
 				OTHER_LDFLAGS = (
@@ -729,7 +742,7 @@
 					"-lc++",
 				);
 				PRODUCT_BUNDLE_IDENTIFIER = com.tincya.hlw;
-				PRODUCT_NAME = HelloWorld;
+				PRODUCT_NAME = ReactNite;
 				SWIFT_OPTIMIZATION_LEVEL = "-Onone";
 				SWIFT_VERSION = 5.0;
 				VERSIONING_SYSTEM = "apple-generic";
@@ -738,25 +751,25 @@
 		};
 		13B07F951A680F5B00A75B9A /* Release */ = {
 			isa = XCBuildConfiguration;
-			baseConfigurationReference = 4D40708BE521DBE7DC6E68C8 /* Pods-HelloWorld.release.xcconfig */;
+			baseConfigurationReference = 4D40708BE521DBE7DC6E68C8 /* Pods-ReactNite.release.xcconfig */;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				CLANG_ENABLE_MODULES = YES;
 				CURRENT_PROJECT_VERSION = 1;
 				DEVELOPMENT_TEAM = A8JX9582AC;
-				EXCLUDED_ARCHS = arm64;
-				"EXCLUDED_ARCHS[sdk=iphonesimulator*]" = arm64;
-				INFOPLIST_FILE = HelloWorld/Info.plist;
+				EXCLUDED_ARCHS = "";
+				"EXCLUDED_ARCHS[sdk=iphonesimulator*]" = "";
+				INFOPLIST_FILE = ReactNite/Info.plist;
 				IPHONEOS_DEPLOYMENT_TARGET = 11.0;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
-				ONLY_ACTIVE_ARCH = YES;
+				ONLY_ACTIVE_ARCH = NO;
 				OTHER_LDFLAGS = (
 					"$(inherited)",
 					"-ObjC",
 					"-lc++",
 				);
 				PRODUCT_BUNDLE_IDENTIFIER = com.tincya.hlw;
-				PRODUCT_NAME = HelloWorld;
+				PRODUCT_NAME = ReactNite;
 				SWIFT_VERSION = 5.0;
 				VERSIONING_SYSTEM = "apple-generic";
 			};
@@ -774,14 +787,14 @@
 				DEBUG_INFORMATION_FORMAT = dwarf;
 				ENABLE_TESTABILITY = YES;
 				GCC_NO_COMMON_BLOCKS = YES;
-				INFOPLIST_FILE = "HelloWorld-tvOS/Info.plist";
+				INFOPLIST_FILE = "ReactNite-tvOS/Info.plist";
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
 				OTHER_LDFLAGS = (
 					"$(inherited)",
 					"-ObjC",
 					"-lc++",
 				);
-				PRODUCT_BUNDLE_IDENTIFIER = "org.reactjs.native.example.HelloWorld-tvOS";
+				PRODUCT_BUNDLE_IDENTIFIER = "org.reactjs.native.example.ReactNite-tvOS";
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				SDKROOT = appletvos;
 				TARGETED_DEVICE_FAMILY = 3;
@@ -801,14 +814,14 @@
 				COPY_PHASE_STRIP = NO;
 				DEBUG_INFORMATION_FORMAT = "dwarf-with-dsym";
 				GCC_NO_COMMON_BLOCKS = YES;
-				INFOPLIST_FILE = "HelloWorld-tvOS/Info.plist";
+				INFOPLIST_FILE = "ReactNite-tvOS/Info.plist";
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
 				OTHER_LDFLAGS = (
 					"$(inherited)",
 					"-ObjC",
 					"-lc++",
 				);
-				PRODUCT_BUNDLE_IDENTIFIER = "org.reactjs.native.example.HelloWorld-tvOS";
+				PRODUCT_BUNDLE_IDENTIFIER = "org.reactjs.native.example.ReactNite-tvOS";
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				SDKROOT = appletvos;
 				TARGETED_DEVICE_FAMILY = 3;
@@ -827,17 +840,17 @@
 				DEBUG_INFORMATION_FORMAT = dwarf;
 				ENABLE_TESTABILITY = YES;
 				GCC_NO_COMMON_BLOCKS = YES;
-				INFOPLIST_FILE = "HelloWorld-tvOSTests/Info.plist";
+				INFOPLIST_FILE = "ReactNite-tvOSTests/Info.plist";
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks @loader_path/Frameworks";
 				OTHER_LDFLAGS = (
 					"$(inherited)",
 					"-ObjC",
 					"-lc++",
 				);
-				PRODUCT_BUNDLE_IDENTIFIER = "org.reactjs.native.example.HelloWorld-tvOSTests";
+				PRODUCT_BUNDLE_IDENTIFIER = "org.reactjs.native.example.ReactNite-tvOSTests";
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				SDKROOT = appletvos;
-				TEST_HOST = "$(BUILT_PRODUCTS_DIR)/HelloWorld-tvOS.app/HelloWorld-tvOS";
+				TEST_HOST = "$(BUILT_PRODUCTS_DIR)/ReactNite-tvOS.app/ReactNite-tvOS";
 				TVOS_DEPLOYMENT_TARGET = 10.1;
 			};
 			name = Debug;
@@ -853,17 +866,17 @@
 				COPY_PHASE_STRIP = NO;
 				DEBUG_INFORMATION_FORMAT = "dwarf-with-dsym";
 				GCC_NO_COMMON_BLOCKS = YES;
-				INFOPLIST_FILE = "HelloWorld-tvOSTests/Info.plist";
+				INFOPLIST_FILE = "ReactNite-tvOSTests/Info.plist";
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks @loader_path/Frameworks";
 				OTHER_LDFLAGS = (
 					"$(inherited)",
 					"-ObjC",
 					"-lc++",
 				);
-				PRODUCT_BUNDLE_IDENTIFIER = "org.reactjs.native.example.HelloWorld-tvOSTests";
+				PRODUCT_BUNDLE_IDENTIFIER = "org.reactjs.native.example.ReactNite-tvOSTests";
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				SDKROOT = appletvos;
-				TEST_HOST = "$(BUILT_PRODUCTS_DIR)/HelloWorld-tvOS.app/HelloWorld-tvOS";
+				TEST_HOST = "$(BUILT_PRODUCTS_DIR)/ReactNite-tvOS.app/ReactNite-tvOS";
 				TVOS_DEPLOYMENT_TARGET = 10.1;
 			};
 			name = Release;
@@ -986,7 +999,7 @@
 /* End XCBuildConfiguration section */
 
 /* Begin XCConfigurationList section */
-		00E357021AD99517003FC87E /* Build configuration list for PBXNativeTarget "HelloWorldTests" */ = {
+		00E357021AD99517003FC87E /* Build configuration list for PBXNativeTarget "ReactNiteTests" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
 				00E356F61AD99517003FC87E /* Debug */,
@@ -995,7 +1008,7 @@
 			defaultConfigurationIsVisible = 0;
 			defaultConfigurationName = Release;
 		};
-		13B07F931A680F5B00A75B9A /* Build configuration list for PBXNativeTarget "HelloWorld" */ = {
+		13B07F931A680F5B00A75B9A /* Build configuration list for PBXNativeTarget "ReactNite" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
 				13B07F941A680F5B00A75B9A /* Debug */,
@@ -1004,7 +1017,7 @@
 			defaultConfigurationIsVisible = 0;
 			defaultConfigurationName = Release;
 		};
-		2D02E4BA1E0B4A5E006451C7 /* Build configuration list for PBXNativeTarget "HelloWorld-tvOS" */ = {
+		2D02E4BA1E0B4A5E006451C7 /* Build configuration list for PBXNativeTarget "ReactNite-tvOS" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
 				2D02E4971E0B4A5E006451C7 /* Debug */,
@@ -1013,7 +1026,7 @@
 			defaultConfigurationIsVisible = 0;
 			defaultConfigurationName = Release;
 		};
-		2D02E4BB1E0B4A5E006451C7 /* Build configuration list for PBXNativeTarget "HelloWorld-tvOSTests" */ = {
+		2D02E4BB1E0B4A5E006451C7 /* Build configuration list for PBXNativeTarget "ReactNite-tvOSTests" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
 				2D02E4991E0B4A5E006451C7 /* Debug */,
@@ -1022,7 +1035,7 @@
 			defaultConfigurationIsVisible = 0;
 			defaultConfigurationName = Release;
 		};
-		83CBB9FA1A601CBA00E9B192 /* Build configuration list for PBXProject "HelloWorld" */ = {
+		83CBB9FA1A601CBA00E9B192 /* Build configuration list for PBXProject "ReactNite" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
 				83CBBA201A601CBA00E9B192 /* Debug */,
